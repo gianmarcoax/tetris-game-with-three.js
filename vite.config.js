@@ -1,3 +1,3 @@
 export default {
-  base: '/tetris-3d/'
+  base: '/tetris-game-with-three.js/'
 } 
